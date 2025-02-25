@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.arise.training.moviehub"
-        minSdk = 28
+        minSdk = 28 // user ต่ำสุดที่ใช้ได้
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
